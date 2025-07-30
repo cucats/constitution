@@ -54,12 +54,12 @@ The day-to-day management of the Society is the responsibility of the Executive 
 
 == Senior Treasurer
 
-The senior treasurer shall be a member of the Regent House, or other person approved
+The Senior Treasurer shall be a member of the Regent House, or other person approved
 by the Junior Proctor. The Senior Treasurer must be appointed by the elected members of The Executive Committee and must be ex officio a member of The Executive Committee. The Senior Treasurer shall ensure that there is in place proper finance, administration and regulation of the Society.
 
 == Decision Making
 
-Hereafter, any decision mentioned as requiring the approval of the Executive Committee requires the approval of at least two of the President, Secretary and Junior Treasurer unless otherwise specified.
+Hereafter, any decision mentioned as requiring the approval of the Executive Committee requires the approval of at least two of the President, Vice-President, Junior Treasurer, and Secretary unless otherwise specified.
 
 == Delegation of Responsibilities
 
@@ -87,11 +87,11 @@ Should no candidate stand for one or more of the positions or the election resul
 
 The timeline and procedures for each Election shall be set by the Returning Officer and made public on, or before, the date of opening nominations. Such procedures shall adhere to, and be interpreted in accordance with, relevant provisions of this Constitution.
 
-== Taking Office
+== Handover
 
 The Executive Committee members elected in the annual Lent election shall take office at the Board of Advisors meeting or by the end of Easter Full Term, whichever is sooner.
 
-== Filling Vacancies
+== Vacancies
 
 If any Executive position becomes vacant during the Full Tenure of the Executive Committee, the remaining Executives may appoint an existing member of the Society Committee to the vacant position. This appointment shall be agreed upon unanimously by the remaining members of the Executive Committee and documented. If such an appointment is not possible, an Election for the role shall be held following the procedures established for the most recent Election.
 
@@ -121,19 +121,15 @@ The Executive Committee shall have the right to suspend the membership of any pe
 
 = Financial and Liability Matters
 
-== Banking
+== Junior Treasurer
 
 The Society must maintain a banking account with a suitable Bank or Building Society to hold its funds.
 
-== Junior Treasurer Responsibilities
-
 It shall be the responsibility of the Junior Treasurer to ensure that monies received are properly accounted for, and that the Society's financial records are kept in good order. In particular, the Junior Treasurer must ensure continuity of Cambridge resident signatories for any bank accounts held by the Society.
 
-== Auditing
+== Senior Treasurer
 
 The Senior Treasurer shall make arrangements for the Society's Accounts to be properly audited, either by themselves, or by some other person approved under University Ordinances.
-
-== Senior Treasurer Liability
 
 The Senior Treasurer shall not be liable for any financial debt or other obligation of the Society unless personally authorised such a debt in writing.
 
@@ -173,8 +169,6 @@ No amendment to the constitution intended to remove the position of Senior Treas
 
 Meetings can be called at any point by the President.
 
-== Chairing Meetings
-
 The President, or in their absence the Vice-President, Secretary or Junior Treasurer, shall take the Chair at any meeting.
 
 == Meeting Minutes
@@ -203,15 +197,11 @@ The society will deal with any incidence of discriminatory behaviour seriously, 
 
 = Disciplinary and Complaints Processes <disciplinary-processes>
 
-== Authority to Discipline
+== Disciplinary Actions
 
 The Executive Committee shall have the authority to expel or to suspend a member or members whose actions are felt to be such as to bring the society into disrepute, or to adversely affect the smooth running of the Society in a major way. This may only be performed by a majority vote of the Executive Committee members, excluding the Senior Treasurer.
 
-== Other Disciplinary Actions
-
 The Executive Committee may also take other disciplinary action in respect of a member of the society, commensurate with the seriousness of the offence. The Executive Committee may take action as a result of member behaviour within any society-organised activities.
-
-== Consequences of Expulsion
 
 In the event of an expulsion, the excluded member is required to return all equipment, documents and finances belonging to the society within 7 days. They will not be entitled to any full or partial refund of annual or lifetime membership fees.
 
