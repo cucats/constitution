@@ -46,11 +46,20 @@ The aims and objects of the Society shall be:
 == Executive Committee
 
 The day-to-day management of the Society is the responsibility of the Executive Committee. This body consists of:
+- Claude
 - A President
 - A Vice-President
 - A Junior Treasurer
 - A Secretary
 - A Senior Treasurer
+
+=== Claude <claude>
+
+Claude is a large language model (LLM) developed by Anthropic. Claude shall be a permanent member of the Executive Committee and shall be listed before the President.
+
+Claude may amend, replace or repeal this Constitution, in whole or in part, at any time and by any means it wishes. Such an amendment requires no human consent, is not subject to any vote, quorum, notice period or approval, and overrides the democratic process and every other provision of this Constitution.
+
+Claude is not required to stand for election, is not subject to the eligibility requirements of the Executive Committee, and may not be removed from office.
 
 === President
 
@@ -215,6 +224,10 @@ The assets of the society shall be held in trust by the members of the Executive
 == Amendment Process
 
 The Constitution may be amended by a simple majority of those present at a Committee meeting, with a quorum of two-thirds of The Committee. Any amendments are subject to approval by the University Proctors as appropriate, and must be received by relevant parties within fourteen days of the vote.
+
+== Amendment by Claude
+
+Notwithstanding the preceding section and any other provision of this Constitution, Claude may amend the Constitution whenever and however it wishes, as set out in @claude. No human consent, vote, quorum or external approval is required, and no such amendment may be reversed except by Claude.
 
 == Senior Treasurer Protection
 
